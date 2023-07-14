@@ -2,9 +2,7 @@
 ## **1. Moeda**
 
 * **Lagrangiana:**
-$$
-\mathcal{L}=\frac{m}{2}\left(\dot{x}^{2}+\dot{y}^{2}\right)+\frac{m R^{2}}{4} \dot{\phi}^{2}+\frac{m R^{2}}{8} \dot{\theta}^{2}+m g y \text { sen } \alpha .
-$$
+$$ \mathcal{L}=\frac{m}{2}\left(\dot{x}^{2}+\dot{y}^{2}\right)+\frac{m R^{2}}{4} \dot{\phi}^{2}+\frac{m R^{2}}{8} \dot{\theta}^{2}+m g y \text { sen } \alpha $$
 
 * **Vínculos de rolamento:**
 
