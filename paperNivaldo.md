@@ -8,7 +8,7 @@ $$
 
 * **Vínculos de rolamento:**
 
-$$ \dot{x}-R \dot{\phi} \operatorname{sen} \theta=0,~~\dot{y}-R \dot{\phi} \cos \theta=0 $$
+$$ \dot{x}-R \dot{\phi} \sin\theta=0,~~\dot{y}-R \dot{\phi} \cos \theta=0 $$
 
 
 * **Variáveis de configuração:**
@@ -34,7 +34,7 @@ $$\dot{q}_{m+l} - \sum_{j=1}^{m} a_{lj} \dot{q}_j = 0,~l=1,\cdots,k$$
 $$\dot{q}_{3} - (a_{11}\dot{q}_1 + a_{12}\dot{q}_2) = 0 \Rightarrow \dot{x} - (a_{11}\dot{\phi} + a_{12}\dot{\theta}) = 0\\ 
 \dot{q}_{4} - (a_{21}\dot{q}_1 + a_{22}\dot{q}_2) = 0 \Rightarrow \dot{y} - (a_{21}\dot{\phi} + a_{22}\dot{\theta}) = 0$$
 
-$$\dot{x} - (a_{11}\dot{\phi} + a_{12}\dot{\theta}) = \dot{x}-R \dot{\phi} \operatorname{sen} \theta~~\therefore~{\boxed{a_{11} = R\sin{\theta}~~\text{e}~~a_{12} = 0}} \\
+$$\dot{x} - (a_{11}\dot{\phi} + a_{12}\dot{\theta}) = \dot{x}-R \dot{\phi} \sin\theta~~\therefore~{\boxed{a_{11} = R\sin{\theta}~~\text{e}~~a_{12} = 0}} \\
 \dot{y} - (a_{21}\dot{\phi} + a_{22}\dot{\theta}) = \dot{y}-R \dot{\phi} \cos \theta~~\therefore~{\boxed{a_{21} = R\cos{\theta}~~\text{e}~~a_{22} = 0}}$$
 
 * **Lagrangiana reduzida:**
